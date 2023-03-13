@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kd7yuen
-- 👀 I’m interested in ...  becoming a Back-end Engineer
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... Python associated projects
+- 👀 I’m interested in ...  
+- 🌱 I’m currently learning ... 
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... kd7yuen@gmail.com
 
 <!---
